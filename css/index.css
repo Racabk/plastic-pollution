@@ -1,0 +1,62 @@
+h1 {
+    color: rgb black;
+    margin: auto; padding: 10px; font-size: 50px; width: 40%;
+}
+
+body {
+    background-color: lightgray;
+}
+header {
+    width: 100%;
+    height: 70px;
+    background-color: lightgrey;
+}
+
+h1{
+    position:absolute;
+    padding: 3px;
+    float: left;
+    margin-left: 2%;
+    margin-top: 8px;
+    font-size: 30px;
+    color: blue;
+
+}
+
+h3 {
+    padding: 20px;
+    border: 3px solid darkblue;
+    margin: auto;
+    width: 20%;
+}
+ul{
+    width: auto;
+    float: right;
+    margin-top: 8px;
+
+}
+li{
+    display: inline-block;
+    padding: 15px 30px;
+
+}
+
+a{
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    font-size: medium;
+}
+
+#video {
+    width: 27%;
+    margin-top: -16px;
+
+}
+h4 {
+    margin: auto;
+    padding: 20px;
+    width: 20%;
+
+}
+
